@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import AyatanaAppIndicator3
+import pystray
 
 
 def main():

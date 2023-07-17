@@ -1,1 +1,1 @@
-pystray
+pystray==0.19.4 
